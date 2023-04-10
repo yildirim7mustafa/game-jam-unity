@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: c6cf56702dcb397429b385bc8f807c20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5538666112372936355
+    second: ready_to_use_houses_0
+  - first:
+      213: 9216869251756591376
+    second: ready_to_use_houses_1
+  - first:
+      213: 9155562364241376505
+    second: ready_to_use_houses_2
+  - first:
+      213: -6307762455089827495
+    second: ready_to_use_houses_3
+  - first:
+      213: 929211715413588340
+    second: ready_to_use_houses_4
+  - first:
+      213: -8624333795382168195
+    second: ready_to_use_houses_5
+  - first:
+      213: 6084763815797894502
+    second: ready_to_use_houses_6
+  - first:
+      213: 8289421505166179630
+    second: ready_to_use_houses_7
+  - first:
+      213: -2428745444398702897
+    second: ready_to_use_houses_8
+  - first:
+      213: 3064069844996964719
+    second: ready_to_use_houses_9
+  - first:
+      213: -2317931975255681301
+    second: ready_to_use_houses_10
+  - first:
+      213: 7585532444738422116
+    second: ready_to_use_houses_11
+  - first:
+      213: -8392719606093363087
+    second: ready_to_use_houses_12
+  - first:
+      213: 5133984042062995179
+    second: ready_to_use_houses_13
+  - first:
+      213: -3303099795648575782
+    second: ready_to_use_houses_14
+  - first:
+      213: -6410143167406372363
+    second: ready_to_use_houses_15
+  - first:
+      213: -8954273980344430732
+    second: ready_to_use_houses_16
+  - first:
+      213: 5919582555204886552
+    second: ready_to_use_houses_17
+  - first:
+      213: 1894641123150811098
+    second: ready_to_use_houses_18
+  - first:
+      213: -5929535692359213251
+    second: ready_to_use_houses_19
+  - first:
+      213: 3851777724129441000
+    second: ready_to_use_houses_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ready_to_use_houses_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 79
+        width: 211
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8b7deb7b4ddc40800000000000000
+      internalID: 5538666112372936355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 83
+        width: 160
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190c2c50c5e8ef70800000000000000
+      internalID: 9216869251756591376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 43
+        width: 191
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4fa8746771f0f70800000000000000
+      internalID: 9155562364241376505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 99
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95133d097735678a0800000000000000
+      internalID: -6307762455089827495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 116
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479bb5ac12935ec00800000000000000
+      internalID: 929211715413588340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 22
+        width: 186
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7579d55b16305880800000000000000
+      internalID: -8624333795382168195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 43
+        width: 390
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da8c6b37c617450800000000000000
+      internalID: 6084763815797894502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_7
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 73
+        width: 169
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2df9e090f0f90370800000000000000
+      internalID: 8289421505166179630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_8
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 86
+        width: 191
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce54c8e2ec5b4ed0800000000000000
+      internalID: -2428745444398702897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_9
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 98
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61c7063a43c58a20800000000000000
+      internalID: 3064069844996964719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_10
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 95
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69d51462d05dfd0800000000000000
+      internalID: -2317931975255681301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 76
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46585d09199354960800000000000000
+      internalID: 7585532444738422116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178495b1cf1178b80800000000000000
+      internalID: -8392719606093363087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 71
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee50b509439f3740800000000000000
+      internalID: 5133984042062995179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_14
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 68
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad683b68c380922d0800000000000000
+      internalID: -3303099795648575782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 35
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9885b60c89a07a0800000000000000
+      internalID: -6410143167406372363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 37
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0c04b1470cb380800000000000000
+      internalID: -8954273980344430732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_17
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 40
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810269d78f4962250800000000000000
+      internalID: 5919582555204886552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf4042301e1b4a10800000000000000
+      internalID: 1894641123150811098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_19
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 8
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fdded24be06bda0800000000000000
+      internalID: -5929535692359213251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ready_to_use_houses_20
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 11
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47f78be63447530800000000000000
+      internalID: 3851777724129441000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ready_to_use_houses_8: -2428745444398702897
+      ready_to_use_houses_2: 9155562364241376505
+      ready_to_use_houses_5: -8624333795382168195
+      ready_to_use_houses_12: -8392719606093363087
+      ready_to_use_houses_4: 929211715413588340
+      ready_to_use_houses_7: 8289421505166179630
+      ready_to_use_houses_19: -5929535692359213251
+      ready_to_use_houses_18: 1894641123150811098
+      ready_to_use_houses_20: 3851777724129441000
+      ready_to_use_houses_1: 9216869251756591376
+      ready_to_use_houses_16: -8954273980344430732
+      ready_to_use_houses_15: -6410143167406372363
+      ready_to_use_houses_0: 5538666112372936355
+      ready_to_use_houses_6: 6084763815797894502
+      ready_to_use_houses_13: 5133984042062995179
+      ready_to_use_houses_14: -3303099795648575782
+      ready_to_use_houses_17: 5919582555204886552
+      ready_to_use_houses_9: 3064069844996964719
+      ready_to_use_houses_11: 7585532444738422116
+      ready_to_use_houses_10: -2317931975255681301
+      ready_to_use_houses_3: -6307762455089827495
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
